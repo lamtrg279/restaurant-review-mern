@@ -1,4 +1,4 @@
-# restaurant-review-server
+# MERN Stack Restaurant application
 In this project, I built a full stack web application using the MERN stack (MongoDB, Express, React, Node.js) that allows users to search for the restaurant's name, address, cuisine.
 Users can also create, update, delete reviews on restaurants.
 

@@ -3,10 +3,10 @@ In this project, I built a full stack web application using the MERN stack (Mong
 Users can also create, update, delete reviews on restaurants.
 
 ## Implementation Details
-Required node.js and connection to mongoAtlas sample database https://www.mongodb.com/atlas/database. 
-User also needs to create an index like so { "name" : "text" } in mongoAtlas in order to search by names.
-Edit the .env file with URI provided by mongoAtlas 
-Commands (need 2 tabs of shell): 
+- Required node.js and connection to mongoAtlas sample database https://www.mongodb.com/atlas/database. 
+- User also needs to create an index like so { "name" : "text" } in mongoAtlas in order to search by names.
+- Edit the .env file with URI provided by mongoAtlas 
+-Commands (need 2 tabs of shell): 
  - cd bankend -> node index.js (make the server to listen to port 5000)
  - cd frontend -> npm start (run the react front end side)
 

@@ -5,7 +5,7 @@ import { Switch, Route, Link } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 import AddReview from "./components/add-reviews";
-import Restaurants from "./components/restaurants";
+import Restaurant from "./components/restaurant";
 import RestaurantsList from "./components/restaurants-list";
 import Login from "./components/login";
 
@@ -62,7 +62,7 @@ function App() {
           />
           <Route
             path="/restaurants/:id"
-            render={(props) => <Restaurants {...props} user={user} />}
+            render={(props) => <Restaurant {...props} user={user} />}
           />
           <Route
             path="/login"

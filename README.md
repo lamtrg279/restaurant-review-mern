@@ -27,9 +27,6 @@ Users can also create, update, delete reviews on restaurants.
         "user_id": <user id>
       }
 #### Demo 
-![homepage](https://user-images.githubusercontent.com/76791917/147775861-998a7889-0fd4-4b8d-871f-d099dc7c6bff.PNG)
-![search by name](https://user-images.githubusercontent.com/76791917/147775881-413878ce-b408-4a33-95c0-4a6a0ab12483.PNG)
-![search by zip](https://user-images.githubusercontent.com/76791917/147775886-e4885398-ed62-43c7-aa06-a54556f954cd.PNG)
-![login](https://user-images.githubusercontent.com/76791917/147775915-53442fbb-7eb1-4a90-acb8-14b2a8aca300.PNG)
-![add review](https://user-images.githubusercontent.com/76791917/147775927-ee8f74e8-23b5-4d47-abd0-1d20b479d5e0.PNG)
+
+https://user-images.githubusercontent.com/76791917/147776288-2de5db67-2d6a-4cf3-96ee-69aef758ed68.mp4
 
